@@ -1,0 +1,12 @@
+# must have
+pandas
+numpy
+
+# kernel
+ipykernel
+
+# webdriver
+webdriver-manager
+
+# automation package
+selenium
