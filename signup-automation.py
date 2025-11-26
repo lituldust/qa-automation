@@ -8,9 +8,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service as ChromeService
 import random
 
-# Set random seed
-random.seed(101)
-
 # Web URL
 url = "https://todo-list-six-umber-66.vercel.app/"
 
